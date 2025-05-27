@@ -1,0 +1,6 @@
+{
+	"user" : "postgres" ,
+	"dbname" : "testdb",
+	"password" : "1331" ,
+	"sslmode" : "disable"
+}
